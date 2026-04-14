@@ -1,11 +1,11 @@
 # Hi, I'm Isamu Matsuyama
 
-Web Systems Developer building practical systems from real business operations.
+Web Systems Developer building practical full-stack systems from real operational needs.
 
 ## About me
-I have a background in recruitment, multilingual support, and business operations in Japan, and over the past several years I have been developing web systems to solve day-to-day operational problems more effectively.
+I have a background in recruitment, multilingual support, and business operations in Japan. Over the past several years, I have also been developing web systems to solve day-to-day operational problems more effectively.
 
-My work focuses on internal tools, workflow improvement, and full-stack web development.
+My work focuses on internal tools, workflow improvement, and practical full-stack web development.
 
 ## Current focus
 - Full-stack development
@@ -18,7 +18,7 @@ My work focuses on internal tools, workflow improvement, and full-stack web deve
 - Frontend: SvelteKit, JavaScript, TypeScript, Tailwind CSS
 - Backend: FastAPI, Django REST Framework, Python
 - Database: PostgreSQL, MariaDB, Firebase
-- Infra: Nginx, Gunicorn, DigitalOcean, Oracle Cloud
+- Infrastructure: Nginx, Gunicorn, DigitalOcean, Oracle Cloud
 - Tools: Git, GitHub, OpenSpec, Ollama
 
 ## Note on professional work
